@@ -41,8 +41,11 @@ Je suis pas si bon à français! J'utilise [WordReference](https://www.wordrefer
 
 #### Attribution
 
-Eiffel Tower Icon by Freepik from Flaticon
-L'îcone de la tour Eiffel par Freepik de Flaticon
+Eiffel Tower Icon by Freepik from Flaticon.
+L'îcone de la tour Eiffel par Freepik de Flaticon.
 
-This program uses [pyperclip by asweigart](https://github.com/asweigart/pyperclip/)
-Ce programme utilise [pyperclip par asweigart](https://github.com/asweigart/pyperclip/)
+This program uses [pyperclip by asweigart](https://github.com/asweigart/pyperclip/).
+Ce programme utilise [pyperclip par asweigart](https://github.com/asweigart/pyperclip/).
+
+Some code adapted from [here](https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile/13790741#13790741).
+Quelques code adapté d'[ici](https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile/13790741#13790741).
