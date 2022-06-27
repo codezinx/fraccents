@@ -31,7 +31,7 @@ If you have a Mac or a Linux PC, please help contribute by making an installer f
 
 Si vous avez un Mac ou un ordi de Linux, s.v.p. aidez contribuer par faisant un programme d'installation pour votre système d'exploitation.
 
-### About Me
+### About Me / À propos de moi
 
 I'm a person who is still in the process of learning programming.
 I am not that great at french! I use [WordReference](https://www.wordreference.com) to help me with my vocabulary.
