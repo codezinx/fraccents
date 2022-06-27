@@ -137,7 +137,7 @@ guillemet_d.grid(row=2, column=4)
 majuscule.pack(pady=(0, 10))
 status.pack(pady=(0, 10))
 
-# Set Icon, Keep Window on Top and From Closing
+# Keep Window on Top and From Closing
 
 root.call('wm', 'attributes', '.', '-topmost', '1')
 root.mainloop()
