@@ -17,8 +17,8 @@ Pour copier une lettre accentuée majuscule, cliquez la case à cocher qui dit �
 
 ### How to Install / Comment Installer
 
-If you are on Windows, download this [EXE file]() and run it.
-Si vous avez sur Windows, téléchargez ce [fichier d'EXE]() et l'exécutez.
+If you are on Windows, download this [EXE file](https://github.com/codezinx/fraccents/releases/download/binaries/fraccents.exe) and run it.
+Si vous avez sur Windows, téléchargez ce [fichier d'EXE](https://github.com/codezinx/fraccents/releases/download/binaries/fraccents.exe) et l'exécutez.
 
 1. First, install [Python](https://python.org). On Windows, make sure python.exe is added to PATH. / Premièrement, installer [Python](https://python.org). Sur Windows, s'assurer que python.exe est ajouté à « PATH ».
 2. Then, download the code by clicking Code > Download ZIP / Puis, téléchargez le code par cliquant Code > Download ZIP
