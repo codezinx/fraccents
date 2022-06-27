@@ -2,7 +2,7 @@
 
 A simple app that you can use to copy French accents. Great for language learners.
 
-Une appli simpe que vous pouver utiliser pour copier les accents français. Bons pour les apprenants de langue étrangère.
+Une appli simple que vous pouver utiliser pour copier les accents français. Bons pour les apprenants de langue étrangère.
 
 ### How to Use / Comment utiliser
 
